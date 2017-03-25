@@ -6,4 +6,4 @@ So it's really important to use the tool to write something.
 
 Below is the learning steps:
 1. Learn the basic concept of python
-2. 
+2. Write a website
